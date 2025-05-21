@@ -18,8 +18,8 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🧠 AI & Data Science  
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=brain&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=googlescholar&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-9C27B0?style=for-the-badge&logo=probot&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
